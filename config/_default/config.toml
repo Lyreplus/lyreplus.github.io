@@ -12,5 +12,3 @@ defaultContentLanguage = "en"
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage = false
 
-# Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"

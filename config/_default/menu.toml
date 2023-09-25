@@ -15,3 +15,11 @@ url = "https://github.com/Lyreplus"
 [social.params]
 icon = "brand-github"
 
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/lorenzo-pattaro-zonta"
+
+[social.params]
+icon = "brand-linkedin"
