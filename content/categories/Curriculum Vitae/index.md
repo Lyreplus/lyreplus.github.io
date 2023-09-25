@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Curriculum Vitae
+description: Informations about me!
 image:
 
 # Badge style
