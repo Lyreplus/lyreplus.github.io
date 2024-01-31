@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lyreplus Starter Pack</title><link>https://lyreplus.github.io/</link><description>Recent content on Lyreplus Starter Pack</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lyreplus.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Curriculum Vitae</title><link>https://lyreplus.github.io/p/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lyreplus.github.io/p/cv/</guid><description>&lt;img src="https://lyreplus.github.io/p/cv/cover.jpg" alt="Featured image of post Curriculum Vitae" />&lt;p>Welcome to Lorenzo Pattaro Zonta&amp;rsquo;s CV&lt;/p>
+&lt;h2 id="about">About&lt;/h2>
+&lt;p>Curious, multipotential and tirelessly interested to new things. Works
+better in team, appreciates sociability and great listener.&lt;br>
+My personal interests range from orchestration of computing systems,
+artificial intelligence and quantum computing&lt;/p>
+&lt;h2 id="educational-history">Educational History&lt;/h2>
+&lt;h3 id="bachelors-degree-in-computer-communications-and-electronics-engineering">Bachelor’s degree in Computer, Communications and Electronics Engineering&lt;/h3>
+&lt;p>&lt;em>Sep 2021 - Mar 2024&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Algorithm and Data Structures&lt;/li>
+&lt;li>Software Engineering&lt;/li>
+&lt;li>Operating Systems&lt;/li>
+&lt;li>Parallel Computing&lt;/li>
+&lt;/ul>
+&lt;h3 id="high-school-diploma">High School Diploma&lt;/h3>
+&lt;p>&lt;em>Sep 2016 - Jun 2021&lt;/em>&lt;/p>
+&lt;p>High School Diploma in Applied Sciences&lt;br>
+ISS Calabrese Levi, San Pietro in Cariano (VR), Italy&lt;/p>
+&lt;h2 id="knowledge-of-programming-languages-and-tools">Knowledge of programming languages and tools&lt;/h2>
+&lt;h3 id="cc">C/C++&lt;/h3>
+&lt;p>High knowledge with threads managment, input/output and standard in/out/err operations, and foundations of Parallel Computing&lt;/p>
+&lt;h3 id="rust">Rust&lt;/h3>
+&lt;p>High knowledge with use of gui libraries such as egui, web frameworks such as rocket&lt;/p>
+&lt;h3 id="javascriptnode-js">Javascript/Node JS&lt;/h3>
+&lt;p>Medium knowledge&lt;br>
+Creation of node js backend app with api creation and communication between front and backend. Software testing with Jest&lt;/p>
+&lt;h3 id="python">Python&lt;/h3>
+&lt;p>Medium level with use of web scraping libraries, and simple os operations.&lt;/p>
+&lt;h3 id="nosql">NoSQL&lt;/h3>
+&lt;p>Medium knowledge of non relational databases using MongoDB and mongoose&lt;/p>
+&lt;h2 id="project-and-hobbies">Project and Hobbies&lt;/h2>
+&lt;h3 id="first-lego-league">First Lego League&lt;/h3>
+&lt;p>&lt;em>Sep 2019 - Mar 2020&lt;/em>
+Reached the semi-finals of the national selections&lt;/p>
+&lt;h3 id="scout---agesci">Scout - AGESCI&lt;/h3>
+&lt;p>&lt;em>2014-2023&lt;/em>&lt;br>
+Member of the scout group Bussolengo 1&lt;/p>
+&lt;h2 id="languages">Languages&lt;/h2>
+&lt;h3 id="italian">Italian&lt;/h3>
+&lt;p>Native speaker&lt;/p>
+&lt;h3 id="english">English&lt;/h3>
+&lt;p>English Cambridge Certification Level B2&lt;/p>
+&lt;p>For more information: &lt;a class="link" href="https://www.linkedin.com/in/lorenzo-pattaro-zonta/" target="_blank" rel="noopener"
+>Linkedin&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Click here for the &lt;a class="link" href="cv.pdf" >PDF&lt;/a>&lt;/p>
+&lt;/blockquote></description></item><item><title>Archives</title><link>https://lyreplus.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://lyreplus.github.io/archives/</guid><description/></item><item><title>Curriculum Vitae</title><link>https://lyreplus.github.io/categories/curriculum-vitae/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lyreplus.github.io/categories/curriculum-vitae/</guid><description/></item><item><title>CV</title><link>https://lyreplus.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lyreplus.github.io/cv/</guid><description>&lt;p>&lt;a class="link" href="https://lyreplus.github.io/p/cv" >Link here&lt;/a>&lt;/p></description></item><item><title>Hello world! My name is Lorenzo</title><link>https://lyreplus.github.io/p/hello-world/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lyreplus.github.io/p/hello-world/</guid><description>&lt;img src="https://lyreplus.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello world! My name is Lorenzo" />&lt;h2 id="hello-world-my-name-is-lorenzo">Hello World, my name is Lorenzo!&lt;/h2>
+&lt;p>Welcome to my personal website! Here you will find my &lt;a class="link" href="https://lyreplus.github.io/p/cv" >CV&lt;/a> and also some of my thoughts and stories, as well as &lt;strong>opinions&lt;/strong> and &lt;strong>insights&lt;/strong> in the tech field!&lt;/p>
+&lt;p>Enjoy!&lt;/p>
+&lt;p>Don&amp;rsquo;t forget to visit my &lt;a class="link" href="https://github.com/Lyreplus" target="_blank" rel="noopener"
+>Github profile&lt;/a>!&lt;/p></description></item><item><title>Links</title><link>https://lyreplus.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lyreplus.github.io/links/</guid><description/></item><item><title>Search</title><link>https://lyreplus.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lyreplus.github.io/search/</guid><description/></item></channel></rss>
